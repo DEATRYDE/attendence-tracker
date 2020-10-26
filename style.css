@@ -135,3 +135,7 @@ header h1 {
   font-weight: bold;
   font-size: 1.6rem;
 }
+
+.root__container {
+  margin: 0;
+}
